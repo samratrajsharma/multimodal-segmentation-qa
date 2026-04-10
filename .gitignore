@@ -12,6 +12,8 @@ venv/
 # Data (VERY IMPORTANT)
 data/raw/
 data/processed/
+data/unified/
+data/
 
 # Jupyter
 .ipynb_checkpoints/
